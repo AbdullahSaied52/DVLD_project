@@ -1,0 +1,9 @@
+D:\Back_end_1\DVLD_project_1\data_layer_1\obj\Debug\data_layer_1.csproj.AssemblyReference.cache
+D:\Back_end_1\DVLD_project_1\data_layer_1\obj\Debug\data_layer_1.csproj.CoreCompileInputs.cache
+D:\Back_end_1\DVLD_project_1\data_layer_1\bin\Debug\data_layer_1.dll
+D:\Back_end_1\DVLD_project_1\data_layer_1\bin\Debug\data_layer_1.pdb
+D:\Back_end_1\DVLD_project_1\data_layer_1\obj\Debug\data_layer_1.dll
+D:\Back_end_1\DVLD_project_1\data_layer_1\obj\Debug\data_layer_1.pdb
+D:\Back_end_1\DVLD_project_1\data_layer_1\bin\Debug\ClsPerson.dll
+D:\Back_end_1\DVLD_project_1\data_layer_1\bin\Debug\ClsPerson.pdb
+D:\Back_end_1\DVLD_project_1\data_layer_1\obj\Debug\data_lay.3543032E.Up2Date
