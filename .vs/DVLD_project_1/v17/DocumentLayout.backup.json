@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Back_end_1\\DVLD_project_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|d:\\back_end_1\\dvld_project_1\\list_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|solutionrelative:list_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EB83EC-1DE8-4078-837D-BC59572A8B14}|data_layer_1\\data_layer_1.csproj|D:\\Back_end_1\\DVLD_project_1\\data_layer_1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EB83EC-1DE8-4078-837D-BC59572A8B14}|data_layer_1\\data_layer_1.csproj|solutionrelative:data_layer_1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A777C397-A5C1-4FD3-9AC7-E7879DDE25A7}|bussiness_layer_1\\bussiness_layer_1.csproj|D:\\Back_end_1\\DVLD_project_1\\bussiness_layer_1\\bussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A777C397-A5C1-4FD3-9AC7-E7879DDE25A7}|bussiness_layer_1\\bussiness_layer_1.csproj|solutionrelative:bussiness_layer_1\\bussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|d:\\back_end_1\\dvld_project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|d:\\back_end_1\\dvld_project_1\\list_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|solutionrelative:list_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|D:\\Back_end_1\\DVLD_project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB8D42FC-5806-4780-881E-51CFC4EB9A30}|DVLD_project_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list_people.cs [Design]",
+              "DocumentMoniker": "D:\\Back_end_1\\DVLD_project_1\\list_people.cs",
+              "RelativeDocumentMoniker": "list_people.cs",
+              "ToolTip": "D:\\Back_end_1\\DVLD_project_1\\list_people.cs [Design]*",
+              "RelativeToolTip": "list_people.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T12:17:44.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.cs",
+              "DocumentMoniker": "D:\\Back_end_1\\DVLD_project_1\\data_layer_1\\data.cs",
+              "RelativeDocumentMoniker": "data_layer_1\\data.cs",
+              "ToolTip": "D:\\Back_end_1\\DVLD_project_1\\data_layer_1\\data.cs",
+              "RelativeToolTip": "data_layer_1\\data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:11:43.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bussiness.cs",
+              "DocumentMoniker": "D:\\Back_end_1\\DVLD_project_1\\bussiness_layer_1\\bussiness.cs",
+              "RelativeDocumentMoniker": "bussiness_layer_1\\bussiness.cs",
+              "ToolTip": "D:\\Back_end_1\\DVLD_project_1\\bussiness_layer_1\\bussiness.cs",
+              "RelativeToolTip": "bussiness_layer_1\\bussiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:12:22.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Back_end_1\\DVLD_project_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Back_end_1\\DVLD_project_1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:36:20.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "list_people.cs",
+              "DocumentMoniker": "D:\\Back_end_1\\DVLD_project_1\\list_people.cs",
+              "RelativeDocumentMoniker": "list_people.cs",
+              "ToolTip": "D:\\Back_end_1\\DVLD_project_1\\list_people.cs*",
+              "RelativeToolTip": "list_people.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T12:19:58.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Back_end_1\\DVLD_project_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Back_end_1\\DVLD_project_1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:10:08.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
