@@ -1,0 +1,6 @@
+D:\Back_end_1\DVLD_project_1\ClsPerson\bin\Debug\ClsPerson.dll
+D:\Back_end_1\DVLD_project_1\ClsPerson\bin\Debug\ClsPerson.pdb
+D:\Back_end_1\DVLD_project_1\ClsPerson\obj\Debug\ClsPerson.csproj.AssemblyReference.cache
+D:\Back_end_1\DVLD_project_1\ClsPerson\obj\Debug\ClsPerson.csproj.CoreCompileInputs.cache
+D:\Back_end_1\DVLD_project_1\ClsPerson\obj\Debug\ClsPerson.dll
+D:\Back_end_1\DVLD_project_1\ClsPerson\obj\Debug\ClsPerson.pdb
